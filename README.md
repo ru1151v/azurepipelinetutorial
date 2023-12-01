@@ -1,4 +1,4 @@
-
+[![Build Status](https://dev.azure.com/volvogroup/cs-aft-na/_apis/build/status%2Fru1151v.azurepipelinetutorial?branchName=main)](https://dev.azure.com/volvogroup/cs-aft-na/_build/latest?definitionId=5770&branchName=main)
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
